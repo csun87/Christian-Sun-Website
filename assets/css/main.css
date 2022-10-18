@@ -251,7 +251,7 @@ input, select, textarea {
 		background-repeat: no-repeat;
 	}
 
-	#rfr-circle {
+	#sig-circle {
 		width: 6em;
 		height: 6em;
 		cursor: default;
@@ -263,7 +263,7 @@ input, select, textarea {
 		margin-bottom: 2em;
 		border-radius: 100%;
 		background: #272833;
-		background-image: url("../../images/rfr.jpg");
+		background-image: url("../../images/sig.jpg");
 		background-position: center center;
 		background-size: cover;
 	}
